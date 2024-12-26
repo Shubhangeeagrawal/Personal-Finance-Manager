@@ -5,6 +5,7 @@ The **Personal Finance Manager** is a Java-based console application designed to
 
 ---
 ## **File Structure**
+```
 PersonalFinanceManager/
 ├── src/
 │   ├── financeManager/
@@ -12,7 +13,7 @@ PersonalFinanceManager/
 │   │   ├── User.java
 │   │   ├── FinanceManager.java
 │   │   └── Main.java
-
+```
 ---
 
 ### **Key Components**
